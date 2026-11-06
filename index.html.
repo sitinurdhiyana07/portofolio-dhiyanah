@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Siti Nur Dhiyanah</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <a href="#home" class="logo">Dhiyanah.</a>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#education">Education</a>
+        <a href="#experience">Experience</a>
+        <a href="#skills">Skills</a>
+        <a href="#certificates">Certificates</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<!-- HOME -->
+<section id="home" class="home">
+    <div class="home-text">
+        <p class="welcome">WELCOME TO MY PORTFOLIO</p>
+
+        <h1>Hello, I'm<br>
+        <span>Siti Nur Dhiyanah</span></h1>
+
+        <h3>Mahasiswa S1 sistem informasi</h3>
+
+        <p>
+            Exploring Technology, Creativity,
+            and Digital Innovation.
+        </p>
+
+        <a href="#about" class="btn">Discover More</a>
+    </div>
+
+    <div class="home-image">
+        <img src="images/foto-dhiyanah.jpeg" alt="Foto Dhiyanah">
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+    <h2 class="title">About <span>Me</span></h2>
+
+    <div class="about-content">
+        <div class="about-text">
+            <p>
+                Halo! Saya Dhiyanah, mahasiswa Program Studi
+                Sistem Informasi yang memiliki ketertarikan
+                pada dunia teknologi dan pengembangan digital.
+            </p>
+
+            <p>
+                Saya senang mempelajari hal-hal baru,
+                terutama dalam bidang pemrograman, desain UI/UX,
+                pengelolaan database, dan pengembangan website.
+            </p>
+
+            <p>
+                Selama perkuliahan, saya telah mempelajari
+                beberapa keterampilan seperti Java Programming,
+                HTML, CSS, MySQL, serta penggunaan Figma
+                dan Cisco Packet Tracer.
+            </p>
+
+            <p>
+                Saya percaya bahwa setiap proses belajar
+                merupakan kesempatan untuk mengembangkan
+                kemampuan, menambah pengalaman, dan
+                menciptakan karya yang bermanfaat.
+            </p>
+
+            <h3>Let's learn, grow, and create something meaningful!</h3>
+        </div>
+    </div>
+
+    
+    <h2 class="title">Personal Information</h2><div class="profile-info">
+    <div>
+        <b>Full Name</b>
+        <p>Siti Nur Dhiyanah</p>
+    </div>
+
+    <div>
+        <b>Place of Birth</b>
+        <p>Gresi 5 juli 2007</p>
+    </div>
+
+    <div>
+        <b>Education</b>
+        <p>S1 Sistem Informasi</p>
+    </div>
+
+    <div>
+        <b>University</b>
+        <p>Universitas Sunan Gresik</p>
+    </div>
+
+    <div>
+       <b>Address</b>
+       <p>Gresik, Jawa Timur, Indonesia</p>
+</div>
+
+</section>
+
+<!-- EDUCATION -->
+<section id="education">
+    <h2 class="title">My <span>Education</span></h2>
+
+    <div class="timeline">
+
+        <div class="timeline-item">
+            <h3>Universitas Sunan Gresik</h3>
+            <span>2025 - sekarang</span>
+            <p>S1 Sistem Informasi</p>
+        </div>
+
+        <div class="timeline-item">
+            <h3>SMA Al Karimi Tebuwung</h3>
+            <span>2022 - 2025</span>
+            <p>Jurusan IPA</p>
+        </div>
+
+    </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section id="experience">
+    <h2 class="title">Organisasi <span>Experience</span></h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Sekretaris Karang Taruna</h3>
+            <p>Karang Taruna Desa Serah</p>
+            <span>2025 - Sekarang</span>
+        </div>
+
+        <div class="card">
+            <h3>Wakil Ketua IPPNU</h3>
+            <p>IPPNU Desa Serah</p>
+            <span>2025</span>
+        </div>
+
+        <div class="card">
+            <h3>Divisi PDD</h3>
+            <p>Remaja Masjid Desa Serah</p>
+            <span>2026</span>
+        </div>
+
+        <div class="card">
+            <h3>Sekretaris OSIS</h3>
+            <p>SMA Al Karimi Tebuwung</p>
+            <span>2024</span>
+        </div>
+
+    </div>
+</section>
+
+<section id="webinar">
+    <h2>Webinar</h2>
+
+    <div class="webinar-card">
+        <div class="skill-box">
+            <h3>Soft Skills</h3>
+            <p>Communication</p>
+            <p>Teamwork</p>
+            <p>Problem Solving</p>
+            <p>Time Management</p>
+        </div>
+
+        <div class="skill-box">
+            <h3>Hard Skills</h3>
+            <p>Figma (Wireframe & Prototype)</p>
+            <p>Microsoft word</p>
+            <p>Microsoft PowerPoint</p>
+            <p>Canva Design</p>
+        </div>
+
+    </div>
+</section>
+
+<!-- ACTIVITIES -->
+<section id="activities">
+    <h2 class="title">Webinar & <span>Activities</span></h2><div class="activities-container">
+
+    <div class="activity-card">
+        <h3>Webinar</h3>
+        <p>Penerapan Data Analyst di Berbagai Bidang Pekerjaan (2026)</p>
+        <p>Speak Up Academy (2026)</p>
+    </div>
+
+    <div class="activity-card">
+        <h3>Forum Ilmiah</h3>
+
+        <p>
+            Sentiment Analysis dengan Pendekatan Machine Learning:
+            Mengubah Opini Media Sosial Menjadi Dasar Keputusan (2026).
+        </p>
+
+        <p>
+            Pengembangan Algoritma Explainable Deep Learning
+            Convolutional Neural Network (2026).
+        </p>
+
+        <p>
+            Pengenalan dan Simulasi TOAFL sebagai Bekal Strategis
+            Memperoleh Beasiswa dan Menempuh Pendidikan Tinggi (2026).
+        </p>
+
+        <p>
+            Penguatan Spiritual dan Pendampingan Literasi Digital
+            Menuju Generasi Cerdas di Era Digital (2026).
+        </p>
+    </div>
+
+</div>
+
+</section>
+
+<!-- CERTIFICATES -->
+<section id="certificates">
+    <h2 class="title">My <span>Certificates</span></h2>
+
+    <p class="subtitle">
+        Dokumentasi sertifikat webinar dan forum ilmiah.
+    </p>
+
+    <div class="certificate-gallery">
+
+        <div class="certificate">
+            <img src="images/sertifikat.1.jpeg" alt="Sertifikat 1">
+            <h3>Certificate 01</h3>
+        </div>
+
+        <div class="certificate">
+            <img src="images/sertifikat.2.jpeg" alt="Sertifikat 2">
+            <h3>Certificate 02</h3>
+        </div>
+
+        <div class="certificate">
+            <img src="images/sertifikat.3.jpeg" alt="Sertifikat 3">
+            <h3>Certificate 03</h3>
+        </div>
+
+        <div class="certificate">
+            <img src="images/sertifikat.4.jpeg" alt="Sertifikat 4">
+            <h3>Certificate 04</h3>
+        </div>
+
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+    <h2 class="title">Contact <span>Me</span></h2>
+
+    <div class="contact-box">
+        <p>Email: sitinurdhiyana07@gmail.com</p>
+        <p>Instagram: @dhiiynh</p>
+        <p>WhatsApp: 085139179308</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Siti Nur Dhiyanah | Personal Portfolio</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
